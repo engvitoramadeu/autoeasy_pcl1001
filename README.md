@@ -18,4 +18,6 @@ Agradecemos seu apoio contínuo e esperamos que esta mudança fortaleça ainda m
 
 Atenciosamente,
 Prof. Vitor Amadeu
+
 vitor@cerne-tec.com.br
+vitor.souza@ime.eb.br
