@@ -14,6 +14,11 @@ Se você estiver interessado em contribuir ou simplesmente quiser acessar o cód
 
 O compilador AutoEasy IDE foi elaborado usando como ferramenta o Visual Basic 6.0. Recomenda-se criar um novo projeto na plataforma .NET. Já o programa que roda no MCU da placa PCL-1001 foi feito em Assembly, usando como ferramenta o MPLAB 8.50, porém a versão MPLAB X pode ser usada, desde que um novo projeto seja criado.
 
+Segue manual da sintaxe do compilador:
+
+https://cerne-tec.com.br/ManProgPort.pdf
+https://cerne-tec.com.br/ManProgIng.pdf
+
 Agradecemos seu apoio contínuo e esperamos que esta mudança fortaleça ainda mais nossa comunidade de usuários e desenvolvedores.
 
 Atenciosamente,
