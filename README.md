@@ -10,7 +10,7 @@ A partir de agora, o código-fonte do nosso programa está disponível para aces
 
 Como o criador original deste programa, continuarei envolvido no desenvolvimento e manutenção do mesmo. No entanto, agora ele é um projeto de código aberto, e todos os contribuidores serão reconhecidos por suas valiosas contribuições.
 
-Se você estiver interessado em contribuir ou simplesmente quiser acessar o código-fonte, visite [URL do repositório] para obter mais informações.
+Se você estiver interessado em contribuir ou simplesmente quiser acessar o código-fonte, visite https://github.com/engvitoramadeu/autoeasy_pcl1001 para obter mais informações.
 
 Agradecemos seu apoio contínuo e esperamos que esta mudança fortaleça ainda mais nossa comunidade de usuários e desenvolvedores.
 
