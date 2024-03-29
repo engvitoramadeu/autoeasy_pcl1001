@@ -20,4 +20,5 @@ Atenciosamente,
 Prof. Vitor Amadeu
 
 vitor@cerne-tec.com.br
-vitor.souza@ime.eb.br
+
+https://www.linkedin.com/in/engvitoramadeu/
