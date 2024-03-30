@@ -27,3 +27,33 @@ Prof. Vitor Amadeu
 vitor@cerne-tec.com.br
 
 https://www.linkedin.com/in/engvitoramadeu/
+
+
+
+**Important Update: Source Code Now Under GNU GPL-2.0 License**
+
+Dear users,
+
+We would like to provide you with a significant update regarding our program. As part of our commitment to transparency and the free software development community, we have decided to make our program's source code available under the GNU General Public License version 2 (GNU GPL-2.0).
+
+This decision reflects our desire to promote freedom to use, distribute and modify the software. The GNU GPL-2.0 is a well-established license that ensures that software remains free and accessible to all users.
+
+From now on, the source code of our program is available for access and modification by the community. We encourage contributions, feedback and improvements from all interested parties.
+
+As the original creator of this program, I will continue to be involved in its development and maintenance. However, it is now an open source project, and all contributors will be recognized for their valuable contributions.
+
+If you are interested in contributing or simply want to access the source code, please visit https://github.com/engvitoramadeus/autoeasy_pcl1001 for more information.
+
+The AutoEasy IDE compiler was created using Visual Basic 6.0 as a tool. It is recommended to create a new project on the .NET platform. The program that runs on the MCU of the PCL-1001 board was made in Assembly, using MPLAB 8.50 as a tool, however the MPLAB X version can be used, as long as a new project is created.
+
+Below is the compiler syntax manual:
+
+https://cerne-tec.com.br/ManProgPort.pdf https://cerne-tec.com.br/ManProgIng.pdf
+
+We appreciate your continued support and hope this change further strengthens our user and developer community.
+
+Sincerely, Prof. Victor Amadeu
+
+vitor@cerne-tec.com.br
+
+https://www.linkedin.com/in/engvitoramadeu/
